@@ -1,5 +1,8 @@
 # Array
 
+- 统计出现次数: map structure
+- 鸽巢理论: some appear twice, some appear once
+
 
 
 
@@ -12,7 +15,7 @@ solution:
 
 
 
-#### Repeated or missing values
+#### Repeated or missing values / Some appear twice, some appear once
 
 - 题目写明除此之外都是有序的
 
@@ -22,6 +25,14 @@ Solution:
 - 鸽巢理论 (exchange values)
 - 按位异或
 - 排序 (`On = nlgN`)
+
+
+
+Special:
+
+- 将数组看为**环形链表**, 使用快慢指针解决 (使用条件: maxValue = length - 1, 之前的情况都是maxValue = length)
+
+
 
 
 

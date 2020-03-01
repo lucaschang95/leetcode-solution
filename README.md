@@ -1,4 +1,5 @@
 # leetcode-solution
+
 leetcode solution (JavaScript) by Lucas Chang
 
 
@@ -31,10 +32,22 @@ https://github.com/DuHouAn/Java
 
 - <https://github.com/DuHouAn/Java>
 
-283 485 645! 448 442 287 697 667 565 769
+数组
+
+283! 485! 645! 448! 442! 287! 697! 667! 565 769
 704 278 69 153 33 34 875 540 4
 167 88 633 125 680 524 344 345 11
 209 3 438 76 713
 566 240 378 54 59 885 598 766
+
+
+
+链表
+
+206 92 83
+
+203 2 445 82 160 21 328 725 19 61  234 24 143
+
+141 142
 
 - <https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/>
