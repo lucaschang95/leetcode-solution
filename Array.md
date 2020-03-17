@@ -2,6 +2,7 @@
 
 - 统计出现次数: map structure
 - 鸽巢理论: some appear twice, some appear once
+- 动态规划: 模拟数组的grow的过程
 
 
 
@@ -49,3 +50,6 @@ solution:
 solution:
 
 1. 双指针保存状态, 
+
+
+
