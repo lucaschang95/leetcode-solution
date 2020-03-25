@@ -54,7 +54,7 @@ https://github.com/DuHouAn/Java
 
 stack&queue
 
-!20 150 71 735
+!20 !150 71 735
 
 144 94 145 102 107  103 199 279 127
 
