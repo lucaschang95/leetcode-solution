@@ -26,3 +26,11 @@ Tree.prototype.preOrderTraverse = function(callback) {
 
 - stack
   - 借助双层while循环
+
+
+
+
+
+#### **二叉树深度的问题**
+
+- 可以转为二叉树的层序遍历
